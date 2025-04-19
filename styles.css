@@ -1,0 +1,29 @@
+h1{
+    text-align: left;
+    
+}
+
+input{
+    color: #fff;
+    font-family: Inter, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    border: none;
+    padding: 20px;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+}
+
+body{
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin: 200px;
+  
+    
+}
+
+button{
+    padding: 10px;
+    width: 100px;
+}
